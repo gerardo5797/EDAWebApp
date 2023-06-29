@@ -35,7 +35,6 @@ The web application will be composed of 2 different sections:
    * Display the median value
    * Display a histogram chart with maximum number of  bins: 50
    * Display a table listing the occurrences and percentage of the top 20 most frequent values
-   * 
 
 
 
